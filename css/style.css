@@ -24,7 +24,7 @@ body {
     overflow-x: hidden;
 
     /* multiple bg svgs */
-    background-image: url('../svgs/bg-tablet-pattern.svg'), url('/svgs/bg-tablet-pattern.svg');
+    background-image: url('../svgs/bg-tablet-pattern.svg'), url('../svgs/bg-tablet-pattern.svg');
     background-repeat: no-repeat, no-repeat;
     background-size: 50%, 40%;
     background-position: top -20vh right -8vw, top 50% left -20vw;
