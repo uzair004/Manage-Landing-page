@@ -322,7 +322,7 @@ body.collapse .overlay {
 
 .banner-section::before {    
     content: "";
-    background-image: url('./svgs/bg-tablet-pattern.svg');
+    background-image: url('../svgs/bg-tablet-pattern.svg');
     background-size: 50%;
     background-repeat: no-repeat;
     position: absolute;
