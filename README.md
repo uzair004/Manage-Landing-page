@@ -1,6 +1,8 @@
 # Manage-Landing-page
 fictional management company landing page.
 
+## [Live Preview](https://uzair004.github.io/Manage-Landing-page/)
+
 ## What's in repo ?
 * code files
 * Live view screenshots (mobile + desktop)
@@ -15,4 +17,4 @@ fictional management company landing page.
 3. JavaScript
 
 
-inspiration from [Frontend Mentor](frontendmentor.io)
+*inspiration from [Frontend Mentor](frontendmentor.io)*
